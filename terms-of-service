@@ -1,0 +1,37 @@
+Last updated: 12/15/2025
+
+Acceptance of Terms
+
+By installing or using Clarity Export for Google Sheets ("the Add-on"), you agree to these Terms of Service.
+
+Description of Service
+
+The Add-on provides a tool to retrieve analytics data from Microsoft Clarity and import it into Google Sheets. The service depends on the availability and accuracy of the Microsoft Clarity API.
+
+User Responsibilities
+
+You agree to:
+
+Use your own Microsoft Clarity credentials
+
+Comply with Microsoft Clarity’s API terms and usage limits
+
+Ensure you have the right to access the data associated with the provided Project ID
+
+Limitation of Liability
+
+The Add-on is provided "as is" without warranties of any kind. We are not responsible for:
+
+API downtime or data inaccuracies from Microsoft Clarity
+
+Loss of data caused by user actions
+
+Exceeding third-party API rate limits
+
+Modifications
+
+We reserve the right to update these terms at any time. Continued use of the Add-on constitutes acceptance of the updated terms.
+
+Contact
+
+For support or legal inquiries: info@enricopavan.com
