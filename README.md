@@ -1,1 +1,51 @@
-# clarity-export-for-google-spreadsheet
+Last updated: 15/12/2025
+
+Overview
+
+Clarity Export for Google Sheets ("the Add-on") allows users to import aggregated analytics data from Microsoft Clarity into Google Sheets for reporting and analysis purposes.
+
+Data Access and Usage
+
+The Add-on accesses the following user-provided data:
+
+Microsoft Clarity Project ID
+
+Microsoft Clarity API Token
+
+Analytics data retrieved from the Microsoft Clarity API
+
+This data is used solely to:
+
+Authenticate API requests to Microsoft Clarity
+
+Retrieve analytics data requested by the user
+
+Display the retrieved data inside the user’s Google Sheets document
+
+Data Storage
+
+API Token and Project ID are stored securely using Google Apps Script User Properties
+
+No analytics data is stored outside the user’s Google Sheets
+
+No data is transmitted to third-party services other than Microsoft Clarity
+
+Data Sharing
+
+The Add-on:
+
+Does not sell, share, or transfer user data to third parties
+
+Does not use data for advertising or profiling
+
+Security
+
+All external API requests are performed over HTTPS with SSL validation enabled.
+
+User Control
+
+Users may delete their stored credentials at any time by removing the Add-on or clearing their Apps Script user properties.
+
+Contact
+
+For privacy-related questions, contact: info@enricopavan.com
